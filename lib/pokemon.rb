@@ -1,5 +1,6 @@
+
+
 class Pokemon
-  require "pry"
   
   attr_reader :id, :name, :type, :hp, :db
   @@all = []
